@@ -1,2 +1,4 @@
 # Pillar-5-Capstone-Project
-To demonstrate the end-to-end application of the machine learning lifecycle—including problem framing, data preprocessing, modelling, evaluation and result communication—on a real-world, industry-relevant dataset of choice.
+This project aims to predict loan defaults to help financial institutions make informed lending decisions. Early and accurate identification of potential defaulters can mitigate financial losses, optimize resource allocation for recovery efforts, and refine credit policies.
+
+Task Type: This is a binary classification task. The model will classify loan applications into two categories: '0' (no loan default) or '1' (loan default).
